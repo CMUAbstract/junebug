@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name junebug)(type KiCad)(uri ${KIPRJMOD}/junebug.pretty)(options "")(descr ""))
+)
